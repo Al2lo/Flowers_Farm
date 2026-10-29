@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Project Path="Application.FlowersFarm/Application.FlowersFarm.csproj" />
+  <Project Path="Domain.FlowersFarm/Domain.FlowersFarm.csproj" />
+  <Project Path="Infrastructure.FlowersFarm/Infrastructure.FlowersFarm.csproj" />
+  <Project Path="WebApi.FlowersFarm/WebApi.FlowersFarm.csproj" />
+</Solution>
